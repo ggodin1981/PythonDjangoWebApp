@@ -1,0 +1,1 @@
+G:\GitHubProject\PythonDjangoWebProject\PythonDjangoWebProject\obj\Any CPU\Debug\PythonDjangoWebProject.pyproj.CoreCompileInputs.cache

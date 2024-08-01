@@ -1,0 +1,84 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\GitHubProject\\PythonDjangoWebProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{26EA1E78-F554-4021-993F-22D12EC05CB5}|PythonDjangoWebProject\\PythonDjangoWebProject.pyproj|G:\\GitHubProject\\PythonDjangoWebProject\\PythonDjangoWebProject\\app\\templates\\app\\login.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{26EA1E78-F554-4021-993F-22D12EC05CB5}|PythonDjangoWebProject\\PythonDjangoWebProject.pyproj|solutionrelative:PythonDjangoWebProject\\app\\templates\\app\\login.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26EA1E78-F554-4021-993F-22D12EC05CB5}|PythonDjangoWebProject\\PythonDjangoWebProject.pyproj|G:\\GitHubProject\\PythonDjangoWebProject\\PythonDjangoWebProject\\app\\__init__.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{26EA1E78-F554-4021-993F-22D12EC05CB5}|PythonDjangoWebProject\\PythonDjangoWebProject.pyproj|solutionrelative:PythonDjangoWebProject\\app\\__init__.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Professional\\MSBuild\\Microsoft\\VisualStudio\\v17.0\\Python Tools\\Microsoft.PythonTools.Django.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 206,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:11:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "login.html",
+              "DocumentMoniker": "G:\\GitHubProject\\PythonDjangoWebProject\\PythonDjangoWebProject\\app\\templates\\app\\login.html",
+              "RelativeDocumentMoniker": "PythonDjangoWebProject\\app\\templates\\app\\login.html",
+              "ToolTip": "G:\\GitHubProject\\PythonDjangoWebProject\\PythonDjangoWebProject\\app\\templates\\app\\login.html",
+              "RelativeToolTip": "PythonDjangoWebProject\\app\\templates\\app\\login.html",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAcwAsAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-08-01T05:12:27.844Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "__init__.py (app)",
+              "DocumentMoniker": "G:\\GitHubProject\\PythonDjangoWebProject\\PythonDjangoWebProject\\app\\__init__.py",
+              "RelativeDocumentMoniker": "PythonDjangoWebProject\\app\\__init__.py",
+              "ToolTip": "G:\\GitHubProject\\PythonDjangoWebProject\\PythonDjangoWebProject\\app\\__init__.py",
+              "RelativeToolTip": "PythonDjangoWebProject\\app\\__init__.py",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-08-01T05:12:24.923Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Microsoft.PythonTools.Django.targets",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Professional\\MSBuild\\Microsoft\\VisualStudio\\v17.0\\Python Tools\\Microsoft.PythonTools.Django.targets",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Professional\\MSBuild\\Microsoft\\VisualStudio\\v17.0\\Python Tools\\Microsoft.PythonTools.Django.targets",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGEAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2024-08-01T05:09:43.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
